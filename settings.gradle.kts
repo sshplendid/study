@@ -9,3 +9,4 @@
 
 rootProject.name = "study"
 include("app", "list", "utilities")
+include(":tdd:money")
